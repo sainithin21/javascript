@@ -31,6 +31,3 @@ function returnSecondVal(arr){
 }
 console.log(returnSecondVal(myArr));
 console.log(returnSecondVal([100,200,300,400,500]));
-
-
-
